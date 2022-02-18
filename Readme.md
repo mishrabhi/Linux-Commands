@@ -47,5 +47,35 @@
 * **man**  command is used to know more about a command and how to use it. It shows the manual pages of the command.
 
 
+```linux
+  cp
+```
+* **cp** command is used to copy files through the command line.It takes two arguments,the first is the location of the file and second is where to copy the file.
+
+
+```linux
+  mv
+```
+* **mv** command is used to move files through command line.We can use **mv** command to rename a file also.If we want to rename a file "text" to "new" we can use "mv text new".
+
+
+```linux
+  locate
+```
+* **locate** command is used to locate a file in alinuc system just like search command in windows.
+
+
+```linux
+  wc
+```
+* **wc** command stands for word count and it displays the number of characters.
+
+
+```linux
+  echo
+```
+* **echo** command is used to display messages in the terminal.Example: echo "Good Morning"
+
+
 
 
